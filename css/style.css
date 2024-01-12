@@ -979,8 +979,7 @@ p:empty{
     margin-bottom: 60px;
 }
 .Introduction .video_icon a:hover {
-    background-color: #000;
-    color: #fff;
+    color: #000;
 }
 
 @keyframes push{
@@ -989,7 +988,6 @@ p:empty{
 }
 
 .Introduction .video_icon a {
-    display: inline-block;
     text-decoration: none;
     width: 100px;
     height: 100px;
